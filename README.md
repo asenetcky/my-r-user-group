@@ -30,18 +30,18 @@ and relevant data and outputs will go in their respective subfolders `data` and 
 Some topics may benefit from additional subfolders like the `geos` folder which
 will contain a subfolder `shapefiles` that will help users with limited API/internet access.
 
-### learning_r
+###  Learning R
 The `learning_r` folder is a great place for users new to R and R Studio to go 
 and familiarize themselves with the language and its most popular IDE.
 
 For installation help users' first stop should be `learning_r/output/install_intro_v3.html`.
-### geos
+### Geography-related
 The `geos` folder contains scripts, data, outputs and shapefiles all related
 to the typical work surrounding Geographic Information Systems (GIS) including 
 but not limited to mapping, address cleaning and accessing various state 
 and federal APIs.
 
-### slide_decks
+### Slide Decks
 
 The `slide_decks` folder houses the slide decks of presentations that group
 members have presented.
